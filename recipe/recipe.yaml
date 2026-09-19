@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.16"
+  version: "0.1.18"
 
 package:
   name: pushtodisplay
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/pushtodisplay/-/pushtodisplay-${{ version }}.tgz
-  sha256: e91c6830f174869870652922f5dda148b46dc19979c8029503c16fee6011d381
+  sha256: 99a125f4a6d986c82d95177c38ae18fdc4b9499ee1b2c1d82fde4bfda5723ee0
 
 build:
   number: 0
